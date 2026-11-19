@@ -1,8 +1,24 @@
 # 🛡️ CypherLog — Multi-Branch Security Monitoring & AI Incident Response
 
-> **A real-time Security Operations Center (SOC) dashboard featuring AI-powered threat triage, blockchain-anchored log verification, and cross-branch attack correlation.**
+> **A real-time Security Operations Center (SOC) command dashboard featuring AI-powered threat triage, blockchain-anchored log verification, and cross-branch attack correlation.**
 
 CypherLog is an enterprise security intelligence platform designed for monitoring distributed branch office networks. It aggregates real-time system and authentication telemetry, correlates multi-vector attacks across remote locations, automatically groups raw alerts into prioritized security incidents with SLA countdowns, and provides blockchain-backed immutable audit logs for regulatory compliance.
+
+---
+
+## 📖 About the Project
+
+### 🎯 Problem Statement
+Distributed enterprises with dozens of remote branch offices (banks, retail chains, logistics hubs) face severe security visibility blind spots. Branch networks generate overwhelming volumes of disconnected log noise, making it difficult for centralized SOC teams to detect coordinated low-and-slow attacks, verify that audit trails haven't been tampered with locally, and respond before critical SLAs lapse.
+
+### 💡 The Solution
+CypherLog unifies distributed branch telemetry into a centralized, reactive SOC command center. The platform automatically groups low-level telemetry into actionable security incidents, leverages AI reasoning to generate executive threat briefings and remediation runbooks, detects cross-branch attack campaigns executing simultaneously across geographically dispersed sites, and cryptographically anchors every log entry onto an immutable private blockchain ledger for tamper-evident chain-of-custody.
+
+### 🌟 Core Value Proposition
+- **Cross-Branch Threat Correlation**: Identifies distributed brute-force and credential stuffing campaigns targeting multiple branch locations at once.
+- **AI-Powered Incident Response**: Instant LLM-driven incident analysis, severity classification, and one-click mitigation checklists.
+- **Blockchain-Anchored Integrity**: Cryptographic SHA-256 block-chaining ensures audit logs cannot be altered, overwritten, or deleted by attackers.
+- **Real-Time SOC Observability**: Live SVG geospatial branch topology, active telemetry feeds, and sub-minute SLA response tracking.
 
 ---
 
